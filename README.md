@@ -1,4 +1,4 @@
-# chatapp
+# NetChat
 
 A new Flutter project.
 
