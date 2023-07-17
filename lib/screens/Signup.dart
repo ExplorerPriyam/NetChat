@@ -92,7 +92,7 @@ class _SignupState extends State<Signup> {
           child: SingleChildScrollView(
             child: Column(children: [
               Text(
-                'Mini Mail',
+                'Net Chat',
                 style: TextStyle(
                     color: Colors.blueAccent,
                     fontSize: 35,

@@ -30,7 +30,7 @@ class _HomepageState extends State<Homepage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color.fromARGB(255, 255, 198, 76),
-        title: Text('Mini Mail'),
+        title: Text('Net Chat'),
         centerTitle: true,
         automaticallyImplyLeading: false,
         leading: LottieBuilder.network(

@@ -46,16 +46,15 @@ dependencies:
   uuid: ^3.0.7
   lottie: ^2.3.2
   auto_reload: ^1.1.0
-  flutter_launcher_icons: ^0.13.1
+  
   firebase_analytics: ^10.2.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
-flutter_launcher_icons:
-  android: "launcher_icon"
-  ios: true
-  image_path: "assets/reply-message.png"
-  min_sdk_android: 21
+  flutter_app_name: ^0.1.0
+flutter_app_name:
+  name: "Net Chat"
+
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is

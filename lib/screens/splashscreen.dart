@@ -35,7 +35,7 @@ class _SplashscreenState extends State<Splashscreen> {
             children: [
               LottieBuilder.asset('assets/lottie.json'),
               Text(
-                'Mini Mail',
+                'Net Chat',
                 style: TextStyle(fontSize: 36, fontWeight: FontWeight.bold),
               )
             ],

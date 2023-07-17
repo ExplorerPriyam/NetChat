@@ -2,7 +2,7 @@
     package="com.example.chatapp">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="Mini Mail"
+        android:label="Net Chat"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity

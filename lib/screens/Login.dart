@@ -53,7 +53,7 @@ class _LoginState extends State<Login> {
           child: SingleChildScrollView(
             child: Column(children: [
               Text(
-                'Mini Mail',
+                'Net Chat',
                 style: TextStyle(
                     color: Colors.blueAccent,
                     fontSize: 35,

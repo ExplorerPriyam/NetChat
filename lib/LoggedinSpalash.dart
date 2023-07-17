@@ -38,7 +38,7 @@ class _SpalashLoggedInState extends State<SpalashLoggedIn> {
             children: [
               LottieBuilder.asset('assets/lottie.json'),
               Text(
-                'Mini Mail',
+                'Net Chat',
                 style: TextStyle(fontSize: 36, fontWeight: FontWeight.bold),
               )
             ],
